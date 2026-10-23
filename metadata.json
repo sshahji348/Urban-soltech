@@ -1,0 +1,7 @@
+{
+  "name": "Urban Soltech",
+  "description": "Community solar platform with live hourly panel rates, intelligent solar sizing calculator with PDF export, emergency helpline, and secure account management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
